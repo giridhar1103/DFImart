@@ -11,4 +11,3 @@ To facilitate transactions, DFImart maintains a readily available pool of Indian
 To ensure a smooth and efficient process, DFImart leverages the capabilities of the Defichain blockchain and collaborates with a trusted Indian exchange to maintain adequate liquidity in INR. Additionally, a small transaction fee is charged to cover on-chain swapping costs and serves as the primary revenue stream for the platform.
 
 With its user-focused and user-friendly approach, DFImart is poised to revolutionize the way people shop online using cryptocurrency. By simplifying the transaction process, expanding product offerings, and maintaining transparency, DFImart envisions becoming the go-to marketplace for crypto enthusiasts seeking a seamless and secure e-commerce experience.
-
